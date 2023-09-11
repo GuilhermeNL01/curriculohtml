@@ -39,6 +39,6 @@ Este projeto foi uma ótima oportunidade para aprimorar minhas habilidades em de
 ## 👨‍💼 Autor
 
 - Guilherme Nunes Lobo
-- 📧 E-mail: [seuemail@gmail.com](mailto:seuemail@gmail.com)
-- 🔗 LinkedIn: [seu perfil no LinkedIn](URL_DO_SEU_PERFIL_LINKEDIN)
-- 💼 GitHub: [seu perfil no GitHub](URL_DO_SEU_PERFIL_GITHUB)
+- 📧 E-mail: [seuemail@gmail.com](mailto:loboguilherme2003@gmail.com)
+- 🔗 LinkedIn: [seu perfil no LinkedIn](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)
+- 💼 GitHub: [seu perfil no GitHub](https://github.com/GuilhermeNL01)
