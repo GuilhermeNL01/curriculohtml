@@ -7,7 +7,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         const targetElement = document.getElementById(targetId);
 
         window.scrollTo({
-            top: targetElement.offsetTop - 50, // Ajuste opcional para compensar a barra de navegação
+            top: targetElement.offsetTop - 50,
             behavior: 'smooth',
         });
     });
