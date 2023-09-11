@@ -3,10 +3,11 @@ body {
     font-family: Arial, sans-serif;
     background-color: #0c1117 ; 
 
+
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1250px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -108,6 +109,7 @@ h1 {
     color: #ffffff; 
     font-weight: bold; 
     margin-bottom: 20px; 
+    
 }
 
 h2 {
@@ -115,6 +117,8 @@ h2 {
     color: #ffffff; 
     font-weight: bold; 
     margin-bottom: 15px; 
+    text-align:justify;
+
 }
 
 h3 {
@@ -127,4 +131,38 @@ h3 {
 p{
 
     color: #92989e;
+}
+
+.qr-code {
+    max-width: 200px; /* Defina a largura máxima desejada */
+    height: auto; /* Isso manterá a proporção original da imagem */
+    display:inline; /* Isso alinha a imagem no centro horizontalmente */
+    margin: 10px auto; /* Isso adiciona um espaçamento ao redor da imagem e a centraliza verticalmente */
+    
+}
+
+.qr-label {
+    font-size: 16px; /* Define o tamanho da fonte do rótulo */
+    margin-top: 5px; /* Adiciona um espaço entre a imagem e o rótulo */
+}
+
+
+ h5 {
+    font-size: 60px; /* Define o tamanho da fonte do elemento h5 */
+    color: #ffffff; /* Cor do texto */
+    margin-top: 10px; /* Adiciona um espaço entre o rótulo e o elemento h5 */
+}
+
+.skills-item p {
+    display: inline-block; /* Exibe as imagens em linha horizontal */
+    margin-right: 20px; /* Adiciona margem entre as imagens */
+}
+
+.skills-item img {
+    width: 50px; /* Ajuste o tamanho das imagens conforme necessário */
+}
+h6  {
+    font-size: 20px; /* Define o tamanho da fonte do elemento h5 */
+    color: #712bbbb7; /* Cor do texto */
+    margin-top: 10px; /* Adiciona um espaço entre o rótulo e o elemento h5 */
 }
