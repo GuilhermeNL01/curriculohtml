@@ -1,77 +1,44 @@
-# Meu Currículo
+# Meu Currículo Interativo 👨🏻‍💻
 
-Este é o meu currículo pessoal, apresentando minhas informações, habilidades e experiência. O currículo é apresentado como uma página da web simples.
+Este é o meu currículo interativo, uma página da web que apresenta minhas informações pessoais, experiência profissional, educação, habilidades técnicas e projetos. O currículo foi desenvolvido como parte do meu aprendizado em desenvolvimento web e para mostrar minhas habilidades e experiência a potenciais empregadores e colegas.
 
-## Conteúdo
+## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- [Sobre Mim](#sobre-mim)
-- [Habilidades Técnicas](#habilidades-técnicas)
-- [Experiência Profissional](#experiência-profissional)
-- [Educação](#educação)
-- [Portfólio](#portfólio)
-- [Contato](#contato)
+- **HTML e CSS**: O currículo é construído principalmente com HTML e estilizado com CSS para garantir uma aparência atraente e responsiva.
 
-## Sobre Mim
+- **Bootstrap**: Foi utilizado o framework Bootstrap para melhorar a estrutura e o design do site, tornando-o mais amigável para dispositivos móveis.
 
-![Minha Foto](Imagens/perfil.png)
+- **Font Awesome e Ícones Personalizados**: Utilizei a biblioteca Font Awesome para inserir ícones em várias seções do currículo. Também adicionei ícones personalizados para representar minhas habilidades técnicas.
 
-- **Nome**: Guilherme Nunes Lobo
-- **Profissão**: Desenvolvedor iOS
-- **Descrição**: Apaixonado por Tecnologia
-- **Localização**: Brasília, Brasil
+- **JavaScript**: Pequenos scripts em JavaScript foram incorporados para melhorar a interatividade, como a rolagem suave entre as seções ao clicar nos links de navegação.
 
-## Habilidades Técnicas
+## 📋 Estrutura do Projeto
 
-### Linguagens de Programação
+- **Sobre Mim**: Nesta seção, apresento uma breve introdução sobre mim e minha paixão por tecnologia.
 
-- Swift ![Swift](https://cdn-icons-png.flaticon.com/512/732/732250.png)
-- Java ![Java](https://cdn-icons-png.flaticon.com/512/226/226777.png)
-- C ![C](https://cdn.iconscout.com/icon/free/png-256/free-c-59-1175248.png)
-- HTML ![HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png)
-- CSS ![CSS](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png)
+- **Habilidades Técnicas**: Listei minhas habilidades técnicas, incluindo linguagens de programação, ferramentas de desenvolvimento e sistemas operacionais, usando ícones representativos.
 
-### Ferramentas de Desenvolvimento
+- **Experiência Profissional**: Detalhei minha experiência profissional, incluindo nome da empresa, cargo e uma breve descrição das responsabilidades. Adicionei links para mais informações, quando disponíveis.
 
-- Xcode ![Xcode](https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png)
-- Visual Studio Code ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
-- Git ![Git](https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png)
-- GitHub ![GitHub](Imagens/github-mark-white.png)
+- **Educação**: Descrevi minha formação acadêmica, especificando o curso, a universidade e a data de início.
 
-### Sistemas Operacionais
+- **Portfólio**: Mostrei projetos relevantes e forneço links para mais detalhes ou código-fonte no GitHub.
 
-- macOS ![macOS](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1724px-Apple_logo_white.svg.png)
-- Windows ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png)
+- **Contato**: Disponibilizei informações de contato, como e-mail e número de telefone, além de links para minhas redes sociais.
 
-## Experiência Profissional
+## 🚀 Como Usar
 
-- **Desenvolvedor Apple**
-  - Apple Developer Academy UCB
-  - Desenvolvimento de jogos e aplicativos para dispositivos Apple, colaboração em projetos de equipe, resolução de problemas.
-  - [Mais informações](https://developeracademyucb.com.br/)
+- Você pode acessar meu currículo online no seguinte link: [Meu Currículo](URL_DO_SEU_CURRÍCULO).
 
-## Educação
+- Navegue pelas diferentes seções usando o menu de navegação no topo da página.
 
-- **Ciência da Computação**
-  - Universidade Católica de Brasília - Brasília, Brasil
-  - Início: 2022
+- Sinta-se à vontade para entrar em contato comigo por e-mail, telefone ou pelas redes sociais para discutir oportunidades de colaboração ou apenas para se conectar!
 
-## Portfólio
+Este projeto foi uma ótima oportunidade para aprimorar minhas habilidades em desenvolvimento web e criar uma apresentação interativa e envolvente das minhas informações profissionais. Espero que você goste de explorar meu currículo! 🌟
 
-### Collapse
+## 👨‍💼 Autor
 
-- Jogo produzido durante o capacitação Apple Developer Academy UCB
-- Participantes do projeto: Guilherme Nunes Lobo, Gabriel Eirado, Victor Inácio, Leonardo Mesquita e Arthur Liberal
-- [Repositório GitHub](https://github.com/ChustrupFx/Collapse-Game)
-- QR Code AppStore ![QR Code](Imagens/qr-code.png)
-
-## Contato
-
-- **Email**: [Meu email](mailto:loboguilherme2003@gmail.com)
-- **Telefone**: (61) 99321-5997
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/)
-- **Instagram**: [Instagram](https://www.instagram.com/guilherme_nlobo/)
-- **GitHub**: [GitHub](https://github.com/GuilhermeNL01)
-
----
-
-&copy; 2023 Guilherme Nunes Lobo
+- Guilherme Nunes Lobo
+- 📧 E-mail: [seuemail@gmail.com](mailto:seuemail@gmail.com)
+- 🔗 LinkedIn: [seu perfil no LinkedIn](URL_DO_SEU_PERFIL_LINKEDIN)
+- 💼 GitHub: [seu perfil no GitHub](URL_DO_SEU_PERFIL_GITHUB)
